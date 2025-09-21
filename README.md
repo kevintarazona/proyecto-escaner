@@ -1,6 +1,6 @@
 # Vuln Scanner Demo (SQLi & XSS)
 
-Proyecto educativo minimalista para la universidad que  realiza pruebas básicas de detección de posibles vulnerabilidades de **Inyección SQL (reflejada en parámetros)** y **XSS reflejado** sobre una URL objetivo.
+Proyecto educativo minimalista para la universidad  que  realiza pruebas básicas de detección de posibles vulnerabilidades de **Inyección SQL (reflejada en parámetros)** y **XSS reflejado** sobre una URL objetivo.
 
 > ADVERTENCIA: Solo usar sobre sistemas para los que tengas autorización explícita. El uso indebido puede ser ilegal. Este software se entrega "tal cual" sin garantías.
 
@@ -66,4 +66,4 @@ pytest -q
 - Logging estructurado y niveles de verbosidad
 
 ## Ética
-El objetivo es educativo: comprender cómo funcionan las inyecciones básicas y la importancia de validar/escapar entradas y usar consultas parametrizadas.
+El objetivo es educativo: comprender cómo funcionan las inyecciones básicas y la importancia de validar/escapar entradas y usar consultas parametrizadas .
