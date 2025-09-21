@@ -64,6 +64,7 @@ pytest -q
 - Selenium/Playwright para XSS DOM / almacenado
 - Reporte en JSON exportable
 - Logging estructurado y niveles de verbosidad
+- mejorar la interfaz
 
 ## Ética
 El objetivo es educativo: comprender cómo funcionan las inyecciones básicas y la importancia de validar/escapar entradas y usar consultas parametrizadas .
